@@ -1,8 +1,8 @@
-BUPT
-Web developer and Blockchain.
+Web developer and Blockchain, BUPT
+
 Blog: https://arthersun.github.io/
 
-
+Contact me with my email: 987023416@qq.com
 
 <!---
 Arthersun/Arthersun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
