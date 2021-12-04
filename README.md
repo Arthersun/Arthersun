@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arthersun
-- 👀 I’m interested in read and movie.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on java developer.
-- 📫 How to reach me 987023416@qq.com
+BUPT
+Web developer and Blockchain.
+Blog: https://arthersun.github.io/
+
+
 
 <!---
 Arthersun/Arthersun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
