@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arthersun
 - 👀 I’m interested in read and movie.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on java and js.
+- 💞️ I’m looking to collaborate on java developer.
 - 📫 How to reach me 987023416@qq.com
 
 <!---
